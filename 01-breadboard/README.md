@@ -1,35 +1,23 @@
-# Assignment's Title
+# Arduino on a breadboard
 
 ## Assignment's description
-Describe the assignment
+Using an ATMega328 microcontroller and a set of low-level electronic components to assemble an “Arduino on a breadboard”. Describe the functions of each component and use USB-Serial Communication to upload test codes to the circuit from a computer.
 
-## Documentation
-Describe the work you did to complete the assignment
+## Components
+Components used to assemble my own Arduino.
 
-bullet point list
-* item one
-* item two
-* item three
+* Resistor
+* Ceramic capacitor (tiny one)
+* Electrolytic capacitor (big black one)
+* LED diode
+* Voltage Regulator (Transistor)
+* Crystal Oscillator
+* Microcontroller (ATMega328p)  「**My Job**」
 
-numbered list
-1. item one
-2. item two
-3. item three
+* Pin Headers and Jumper Wires
 
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
+## Circuit Diagrams and Photos
+Markdown syntax
 ![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
 
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+## Coding Cases
