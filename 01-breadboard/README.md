@@ -18,6 +18,6 @@ Components used to assemble my own Arduino.
 
 ## Circuit Diagrams and Photos
 Markdown syntax
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
+![picture description](./example.jpg)
 
 ## Coding Cases
