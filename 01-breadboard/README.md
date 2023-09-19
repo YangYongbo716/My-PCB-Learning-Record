@@ -1,6 +1,6 @@
 # Arduino on a breadboard
 
-## Assignment's description
+## Assignment's Description
 Using an ATMega328 microcontroller and a set of low-level electronic components to assemble an “Arduino on a breadboard”. Describe the functions of each component and use USB-Serial Communication to upload test codes to the circuit from a computer.
 
 ## Components
