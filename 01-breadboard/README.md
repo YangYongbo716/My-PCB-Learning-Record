@@ -20,4 +20,5 @@ Components used to assemble my own Arduino.
 Markdown syntax
 ![picture description](./example.jpg)
 
-## Coding Cases
+## Arduino Coding
+
