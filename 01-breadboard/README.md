@@ -16,8 +16,10 @@ Components used to assemble my own Arduino.
 
 * Pin Headers and Jumper Wires
 
-## Circuit Diagrams and Photos
-Markdown syntax
+## Circuit Diagrams and Photo
+Circuit Diagrams
+
+Assemble Photo
 ![Assemble Photo](images/photo.png)
 
 ## Arduino Coding
