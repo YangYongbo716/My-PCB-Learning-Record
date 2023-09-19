@@ -23,4 +23,17 @@ Assemble Photo
 ![Assemble Photo](images/photo.png)
 
 ## Arduino Coding
+1.Using example codes in Arduino
+![example codes](images/1.png)
 
+2.Select Port
+![select port](images/2.png)
+
+3.Select Board
+![select board](images/3.png)
+
+4.Uploat
+![upload](images/4.png)
+
+5.verify
+![verify](images/5.png)
