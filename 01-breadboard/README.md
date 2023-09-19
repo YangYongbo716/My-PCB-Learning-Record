@@ -16,10 +16,9 @@ Components used to assemble my own Arduino.
 
 * Pin Headers and Jumper Wires
 
-## Assembly Tutorial
+## Assemble
 [Building an Arduino on a Breadboard](https://www.https://www.example.com/)
 
-Assemble Photo
 ![Assemble Photo](images/photo.png)
 
 ## Arduino Coding
