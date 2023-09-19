@@ -18,7 +18,7 @@ Components used to assemble my own Arduino.
 
 ## Circuit Diagrams and Photos
 Markdown syntax
-![picture description](./example.jpg)
+![Assemble Photo](./photo.jpg)
 
 ## Arduino Coding
 
