@@ -1,9 +1,11 @@
-# Assignment's Title
+# Try Sensors
 
-## Assignment's description
-Describe the assignment
+## Digital Signal
+Sound Microphone Sensor
 
-## Documentation
+Motor Speed Sensor
+
+## Analog Signal
 Describe the work you did to complete the assignment
 
 bullet point list
