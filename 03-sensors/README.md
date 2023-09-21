@@ -1,7 +1,7 @@
 # Try Sensors
 
 ## Digital Signal
-Sound Microphone Sensor
+Sound Microphone Sensor(used as sound controled button which output 0/1)
 
 ![Motor Speed Sensor Photo](images/MotorSpeedSensor.jpg)
 ![Motor Speed Sensor Output](images/Motor.png)
