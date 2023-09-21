@@ -8,7 +8,7 @@
 
 
 ### Sound Microphone Sensor
-used as sound controled button which output 0/1.
+Used as sound controled button and output 0/1 digital signals.
 ![Sound Microphone Sensor Photo](images/SoundMicrophoneSensor.jpg)
 ![Sound Microphone Sensor circuit](images/Sound1Circuit.jpg)
 ![Sound Microphone Sensor Output](images/Sound1.png)
