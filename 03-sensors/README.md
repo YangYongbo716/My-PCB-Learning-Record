@@ -2,10 +2,12 @@
 
 ## Digital Signal
 Sound Microphone Sensor
+
 ![Motor Speed Sensor Photo](images/Motor Speed Sensor.png)
 ![Motor Speed Sensor Output](images/Motor.png)
 
 Motor Speed Sensor
+
 ![Sound Microphone Sensor Photo](images/Sound Microphone Sensor.png)
 ![Sound Microphone Sensor Output](images/Sound1.png)
 
