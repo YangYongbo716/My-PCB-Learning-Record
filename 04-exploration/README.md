@@ -14,7 +14,11 @@ Everything in nature has its own unique patterns and textures, just like leaves,
 
 ## The Rhythm of Nature
 ### Art Installation Case: TELE-PRESENT WIND
+![the rhythm of nature](./images/Rhythm1.png)
+
+Nature is full of movements and sounds of different elements, just like winds blowing the leaves, sunshine moving positions and river flowing. These movements and sounds can add up to form the rhythm of nature. When we are in nature, we can feel the instantaneous experience brought by the rhythm of nature. But if we can record the whole process and turn it into other forms of expression that we can perceive more easily, we can better feel the charm of nature.
+
 ![TELEPRESENTWIND](./images/TELEPRESENTWIND.jpeg)
 [Project website and relevant video](https://www.dwbowen.com/telepresent-wind)
 
-This is an art installation using mechanical structure to simulate the rhythm of natural wind. It can visualize the rhythm of the wind and help people have a better understanding of it.
+This is an art installation that is very consistent with this experience of mine. It uses mechanical structure to simulate the rhythm of natural wind, which can visualize the rhythm of the wind and help people have a better understanding of it.
