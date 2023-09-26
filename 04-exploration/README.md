@@ -7,5 +7,7 @@ Compared with other types of sense, the smell has more subtle but special affect
 
 But at the same time, smell is the most difficult sense to record and recall and it's more like an encounter when we are interacting with nature. So if we can better understand and make use of smell, we can better understand nature.
 
-## the pattern and texture of nature
-![the pattern and texture of soil](./images/Texture1.png)
+## the patterns and textures of nature
+![the patterns and textures of nature](./images/Texture1.png)
+
+Everything in nature has its own unique patterns and textures, just like leaves, trunk, mountain, snow and so forth. These patterns and textures of nature has high aesthetic value. When we delve deep into them, we could find that they can represent the changes of nature and the traces of time. With the interaction of different elements of nature, just like the sun shining on the surface and raindrops falling on the leaves, these patterns and textures could present different beauty in different environment. 
