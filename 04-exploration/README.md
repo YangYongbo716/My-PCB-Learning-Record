@@ -14,4 +14,4 @@ Everything in nature has its own unique patterns and textures, just like leaves,
 
 ## the rhythm of nature
 ### art installation case: TELE-PRESENT WIND
-
+![TELEPRESENTWIND](./images/TELEPRESENTWIND.jpeg)
