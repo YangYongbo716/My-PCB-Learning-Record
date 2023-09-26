@@ -17,6 +17,7 @@ Used as sound controled button and output 0/1 digital signals.
 ### Light Sensor
 Output both digital signals and analog signals.
 
+
 ![Sound Microphone Sensor Photo](images/LightSensor.jpeg)
 ![Sound Microphone Sensor circuit](images/LightCircuit.jpg)
 ![Sound Microphone Sensor Output](images/Light.png)
