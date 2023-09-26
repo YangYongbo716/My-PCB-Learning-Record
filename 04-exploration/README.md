@@ -8,3 +8,4 @@ Compared with other types of sense, the smell has more subtle but special affect
 But at the same time, smell is the most difficult sense to record and recall and it's more like an encounter when we are interacting with nature. So if we can better understand and make use of smell, we can better understand nature.
 
 ## the pattern and texture of nature
+![the pattern and texture of soil](./images/Texture1.png)
