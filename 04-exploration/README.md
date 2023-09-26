@@ -2,4 +2,4 @@
 
 ## the smell of nature
 
-![picture description](./images/example.jpg)
+![the smell of soil](./images/Smell1.jpg)
