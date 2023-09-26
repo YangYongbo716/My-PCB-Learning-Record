@@ -15,7 +15,6 @@ Everything in nature has its own unique patterns and textures, just like leaves,
 ## The Rhythm of Nature
 ### Art Installation Case: TELE-PRESENT WIND
 ![TELEPRESENTWIND](./images/TELEPRESENTWIND.jpeg)
+[Project website and relevant video](https://www.dwbowen.com/telepresent-wind)
 
 This is an art installation using mechanical structure to simulate the rhythm of natural wind. It can visualize the rhythm of the wind and help people have a better understanding of it.
-
-[Project website and relevant video](https://www.dwbowen.com/telepresent-wind)
