@@ -12,9 +12,7 @@ Components used to assemble my own Arduino.
 * LED diode
 * Voltage Regulator (Transistor)
 * Crystal Oscillator
-* Microcontroller (ATMega328p)  「**My Job**」
-![ATmega328](images/ATmega328.png)
-
+* Microcontroller (ATMega328p)
 * Pin Headers and Jumper Wires
 
 ## Assemble
