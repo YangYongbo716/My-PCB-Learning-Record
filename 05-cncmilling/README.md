@@ -3,7 +3,8 @@
 ## PCB Design
 
 ### Reference
-Describe the assignment
+
+![the dark side of the moon](./images/TheDarkSideOfTheMoon.jpg)
 
 ## Documentation
 Describe the work you did to complete the assignment
