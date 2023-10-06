@@ -1,4 +1,4 @@
-# PCB
+# Dispersion Board
 
 ## PCB Design
 
