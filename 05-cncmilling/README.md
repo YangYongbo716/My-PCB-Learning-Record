@@ -2,7 +2,7 @@
 
 ## PCB Design
 
-### Reference
+### Reference Image
 
 ![the dark side of the moon](./images/TheDarkSideOfTheMoon.png)
 
