@@ -6,6 +6,8 @@
 
 ![the dark side of the moon](./images/TheDarkSideOfTheMoon.png)
 
+My idea is come from the cover of one of the greatest album of all time called "the dark side of the moon", whcih was created by legendary band pink floyd in 1973. This year happens to be the 50th anniversary of the launch of this album, so I choose it as my reference image. The main content of this album cover i a beam of light passes through the prism to produce dispersion. So I use pcb to imitate this process.
+
 ## Documentation
 Describe the work you did to complete the assignment
 
