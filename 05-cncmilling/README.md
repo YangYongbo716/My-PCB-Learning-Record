@@ -4,7 +4,7 @@
 
 ### Reference
 
-![the dark side of the moon](./images/TheDarkSideOfTheMoon.jpg)
+![the dark side of the moon](./images/TheDarkSideOfTheMoon.png)
 
 ## Documentation
 Describe the work you did to complete the assignment
