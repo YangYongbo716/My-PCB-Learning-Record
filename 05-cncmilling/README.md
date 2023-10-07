@@ -14,8 +14,8 @@ My idea is come from the cover of one of the greatest album of all time called "
 
 ### PCB 2D
 
-![PCB2D](./images/2D.png)
+![PCB2D](./images/pcb2d.png)
 
 ### PCB 3D
 
-![PCB3D](./images/3D.png)
+![PCB3D](./images/pcb3d.png)
