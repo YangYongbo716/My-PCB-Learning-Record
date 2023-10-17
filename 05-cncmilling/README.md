@@ -14,6 +14,11 @@ My idea is come from the cover of one of the greatest album of all time called "
 
 ### PCB 2D
 
-![PCB2D](./Design/pcb2d.png)
+![PCB2D](./Design/PCB.png)
 
+All of these design is finished with the help of EasyEDA.
+
+## PCB Fabrication
+
+### Reference Image
 
