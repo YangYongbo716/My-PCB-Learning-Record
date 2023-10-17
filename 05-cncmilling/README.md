@@ -36,4 +36,22 @@ Export traces, holes and outline black and white images with the same size with 
 
 ![outline](./Fabrication/outline.png)
 
+### Export Cutting Files
 
+We use the program in [mods CE](https://modsproject.org/) to export cutting files.
+
+1. Firstly, we need to choose the right program for our CNC machine.
+
+![choose the right program](./Fabrication/1.png)
+
+2. Secondly, we need to change some values to cut the traces.
+
+![change some values](./Fabrication/2.png)
+
+![change some values](./Fabrication/3.png)
+
+3. Finally, we need to change 0.8mm drill and change some values to cut holes and outline.
+
+![cutting holes and outline](./Fabrication/4.png)
+
+![cutting holes and outline](./Fabrication/3.png)
