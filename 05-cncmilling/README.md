@@ -55,3 +55,13 @@ We use the program in [mods CE](https://modsproject.org/) to export cutting file
 ![cutting holes and outline](./Fabrication/4.png)
 
 ![cutting holes and outline](./Fabrication/3.png)
+
+## Output
+
+prototype after cutting
+
+![prototype](./Fabrication/prototype.png)
+
+polish and solder
+
+![final](./Fabrication/final.png)
