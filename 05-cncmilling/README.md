@@ -22,5 +22,18 @@ My idea is come from the cover of one of the greatest album of all time called "
 
 ### Cutting Rules
 
+Use the suitable cutting rules according to the capability of Fablab's CNC machine.
+
 ![Cutting Rules](./Fabrication/DesignRules.png)
+
+### Export Cutting Images
+
+Export traces, holes and outline black and white images with the same size with PDF. 
+
+![traces](./Fabrication/traces.png)
+
+![holes](./Fabrication/holes.png)
+
+![outline](./Fabrication/outline.png)
+
 
