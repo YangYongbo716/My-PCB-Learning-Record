@@ -58,6 +58,10 @@ We use the program in [mods CE](https://modsproject.org/) to export cutting file
 
 ## Output
 
+cutting
+
+![prototype](./Fabrication/cutting.png)
+
 prototype after cutting
 
 ![prototype](./Fabrication/prototype.png)
