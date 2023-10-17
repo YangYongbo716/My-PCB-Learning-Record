@@ -2,6 +2,8 @@
 
 ## PCB Design
 
+All of these design is finished with the help of EasyEDA.
+
 ### Reference Image
 
 ![the dark side of the moon](./Design/thedarksideofthemoon.jpeg)
@@ -15,8 +17,6 @@ My idea is come from the cover of one of the greatest album of all time called "
 ### PCB 2D
 
 ![PCB2D](./Design/PCB.png)
-
-All of these design is finished with the help of EasyEDA.
 
 ## PCB Fabrication
 
