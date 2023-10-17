@@ -2,7 +2,7 @@
 
 ## PCB Design
 
-All of these design is finished with the help of [Project website and relevant video](https://www.dwbowen.com/telepresent-wind).
+All of these design is finished with the help of [EasyEDA](https://pro.easyeda.com/editor).
 
 ### Reference Image
 
