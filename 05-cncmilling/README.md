@@ -20,5 +20,7 @@ My idea is come from the cover of one of the greatest album of all time called "
 
 ## PCB Fabrication
 
-### Reference Image
+### Cutting Rules
+
+![Cutting Rules](./Fabrication/DesignRules.png)
 
