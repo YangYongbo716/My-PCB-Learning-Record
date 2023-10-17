@@ -58,14 +58,14 @@ We use the program in [mods CE](https://modsproject.org/) to export cutting file
 
 ## Output
 
-cutting
+1.cutting
 
 ![prototype](./Fabrication/cutting.png)
 
-prototype after cutting
+2.prototype after cutting
 
 ![prototype](./Fabrication/prototype.png)
 
-polish and solder
+3.polish and solder
 
 ![final](./Fabrication/final.png)
