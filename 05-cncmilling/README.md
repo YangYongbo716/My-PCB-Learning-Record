@@ -4,7 +4,7 @@
 
 All of these design is finished with the help of 
 
-[EasyEDA]([https://www.dwbowen.com/telepresent-wind](https://pro.easyeda.com/editor)).
+[Project website and relevant video](https://www.dwbowen.com/telepresent-wind)
 
 ### Reference Image
 
