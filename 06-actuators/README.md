@@ -15,6 +15,10 @@ It's easy to find that people in this park immerse greatly themselves in nature,
 
 #### An Interesting Cases
 
+[Pokemon Go](https://pokemongolive.com/?hl=en)
+
+It's a mobile game encourage people to go to real world to capture virtual pokemon with AR tech.
+
 ## Documentation
 Describe the work you did to complete the assignment
 
