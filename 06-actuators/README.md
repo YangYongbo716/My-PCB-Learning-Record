@@ -7,11 +7,13 @@ This week we went to a forest park and spent some time involving ourselves in th
 
 ### Using Medium to Create a Sense of Immersion
 
-#### My Feeling
+#### My Feelings:
 
 ![Mediums](./images/Medium.png) 
 
 It's easy to find that people in this park immerse greatly themselves in nature, they are playing Taichi, flying kites, playing instruments and so on. There is a good balance and harmony between them and nature, which is rare in other busy part of the city just like our school. So, the key to their immersion is all of them have a type of **tool or medium**(Taichi,kite,music...) to integrate into nature. So maybe we can also create a medium to help create a sense of immersion.
+
+#### An Interesting Cases
 
 ## Documentation
 Describe the work you did to complete the assignment
