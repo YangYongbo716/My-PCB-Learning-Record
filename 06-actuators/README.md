@@ -18,35 +18,7 @@ It's easy to find that people in this park immerse greatly themselves in nature,
 [Pokemon Go](https://pokemongolive.com/?hl=en) : It's an AR mobile game encourage people to go to real world to capture virtual pokemon, which is a good example that uses medium to build a better bond between human and nature.
 
 #### My Idea:
+
+![How to Citywalk](./images/how2citywalk.png) 
+
 This make me think about "citywalk", which is a popular activity this year. In my opinion, the route of citywalk have a great influence in the whole experience. So, maybe we can use PCB to create something help us choose route to get a good experience rather than random walking. We can use different sensors(maybe light, air quality, GPS...) to guide us to a better environment and use actuators to give us some feedback to create something interesting to help us immersed. The entity of this PCB could be wearable devices, toys(just like kite?) and so on.
-
-## Documentation
-Describe the work you did to complete the assignment
-
-bullet point list
-* item one
-* item two
-* item three
-
-numbered list
-1. item one
-2. item two
-3. item three
-
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
