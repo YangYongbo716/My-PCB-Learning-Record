@@ -3,7 +3,7 @@
 ## Forest Park Exploration Record
 This week we went to a forest park and spent some time involving ourselves in the nature. During this process, we used our different senses to sense the nature and captured some pheonamenon interesting, which could give us some ideas and be potential to create something helping reducing the distance betweeen citizens and city nature. The following is what I have felt and thought in this exploration.
 
-my draft in this exploration:![draft](./images/draft.png) 
+**my draft in this exploration:**![draft](./images/draft.png) 
 
 ## Documentation
 Describe the work you did to complete the assignment
