@@ -5,7 +5,7 @@ This week we went to a forest park and spent some time involving ourselves in th
 
 **My draft in this exploration:**![draft](./images/draft.png) 
 
-### 1.Using Medium to Create a Sense of Immersion
+### 1. Using Medium to Create a Sense of Immersion
 
 #### My Feelings:
 
