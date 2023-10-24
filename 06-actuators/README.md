@@ -17,6 +17,9 @@ It's easy to find that people in this park immerse greatly themselves in nature,
 
 [Pokemon Go](https://pokemongolive.com/?hl=en) : It's an AR mobile game encourage people to go to real world to capture virtual pokemon, which is a good example that uses medium to build a better bond between human and nature.
 
+#### My Idea:
+This make me think about "citywalk", which is a popular activity this year.
+
 ## Documentation
 Describe the work you did to complete the assignment
 
