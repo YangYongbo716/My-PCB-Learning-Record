@@ -15,7 +15,7 @@ It's easy to find that people in this park immerse greatly themselves in nature,
 
 #### An Interesting Cases:
 
-[Pokemon Go:It's an AR mobile game encourage people to go to real world to capture virtual pokemon.](https://pokemongolive.com/?hl=en)
+[Pokemon Go:It's an AR mobile game encourage people to go to real world to capture virtual pokemon, which is a good example that uses medium to build a better bond between human and nature.](https://pokemongolive.com/?hl=en)
 
 ## Documentation
 Describe the work you did to complete the assignment
