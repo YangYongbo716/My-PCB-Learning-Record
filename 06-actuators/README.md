@@ -1,5 +1,7 @@
 # Nature Explore and Actuators
 
+In this week class, we spent some time exploring nature in a forest park and tried some actuators using our own PCB.
+
 ## Forest Park Exploration Record
 This week we went to a forest park and spent some time involving ourselves in the nature. During this process, we used our different senses to sense the nature and captured some pheonamenon interesting, which could give us some ideas and be potential to create something helping reducing the distance betweeen citizens and city nature. The following is what I have felt and thought in this exploration.
 
