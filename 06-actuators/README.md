@@ -36,3 +36,7 @@ When I was takeing notes under some trees, I found that sunshine cast beautiful 
 #### Something Interesting : Lumen Print
 
 ![lumen](./images/lumen.png) 
+
+#### My Idea:
+
+I want to design a natural recorder, which could allow the sunshine and falling natural things(leaves, flowers, and anything natural) to create some art by themselves with the tech of lumen print.
