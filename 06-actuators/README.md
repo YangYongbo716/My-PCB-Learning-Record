@@ -33,6 +33,6 @@ This make me think about "citywalk", which is a popular activity this year. In m
 
 When I was takeing notes under some trees, I found that sunshine cast beautiful shadow on my paper. It gave me a feeling that maybe sunshine and other natural things can collaborate to be a natural artist.
 
-#### Inspiration:Lumen Print
+#### Something Interesting : Lumen Print
 
 ![lumen](./images/lumen.png) 
