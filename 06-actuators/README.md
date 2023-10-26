@@ -24,3 +24,9 @@ It's easy to find that people in this park immerse greatly themselves in nature,
 ![How to Citywalk](./images/how2citywalk.png) 
 
 This make me think about "citywalk", which is a popular activity this year. In my opinion, the route of citywalk have a great influence in the whole experience. So, maybe we can use PCB to create something help us choose route to get a good experience rather than random walking. We can use different sensors(maybe light, air quality, GPS...) to guide us to a better environment and use actuators to give us some feedback to create something interesting to help us immersed. The entity of this PCB could be wearable devices, toys(just like kite?) and so on.
+
+### 2. Sunshine Art
+
+#### My Feelings:
+
+![sunshine](./images/sunshine.png) 
