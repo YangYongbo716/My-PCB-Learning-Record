@@ -40,3 +40,7 @@ When I was takeing notes under some trees, I found that sunshine cast beautiful 
 #### My Idea:
 
 I want to design a natural recorder, which could allow the sunshine and falling natural things(leaves, flowers, and anything natural) to create some art by themselves with the tech of lumen print.
+
+* light sensor : Used to calculate the exposure. （maybe light intensity * time）
+* ultrasonic or pressure sensor : Used to judge if my device capture any falling thing
+* motor : Used to control the movement of shadow board, whose function is similar to camera shutter. (Because the photo paper is sensitive to light and should be protected from light before everthing is alright.)
