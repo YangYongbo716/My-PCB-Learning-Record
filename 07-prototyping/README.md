@@ -1,35 +1,19 @@
-# Assignment's Title
+# Melody of Sunshine and shodow
 
-## Assignment's description
-Describe the assignment
+## Research
 
-## Documentation
-Describe the work you did to complete the assignment
+Research on the basic physical characteristics of light.
 
-bullet point list
-* item one
-* item two
-* item three
+![picture description](./images/research.png)
 
-numbered list
-1. item one
-2. item two
-3. item three
+## Thought
 
-**bold text**
+What and why I want to do.
 
-*italic text*
+![picture description](./images/thought.png)
 
-***italic and bold text***
+## Ideation
 
-example of an external link
+What modules I want to use and what function I want to fulfill.
 
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+![picture description](./images/ideation.png)
