@@ -1,35 +1,22 @@
-# Assignment's Title
+# SunMelodino
 
-## Assignment's description
-Describe the assignment
+## Inspiration
 
-## Documentation
-Describe the work you did to complete the assignment
+## Research
 
-bullet point list
-* item one
-* item two
-* item three
+## Ideation
 
-numbered list
-1. item one
-2. item two
-3. item three
+## Design
 
-**bold text**
+### Modules
 
-*italic text*
+### PCB Design
 
-***italic and bold text***
+### Installation Details
 
-example of an external link
+### Communications
 
-[description of the website](https://www.https://www.example.com/)
+### Max Music Generation
 
-example of a picture hosted on an external website
+## Final Presentation 
 
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
