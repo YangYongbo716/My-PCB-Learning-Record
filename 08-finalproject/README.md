@@ -8,11 +8,11 @@ It was a coincidence that when I was taking notes, the sun and shadow was projec
 
 ## Research
 
-Something about sunshine
+### Something about sunshine
 
 ![sunshine](./Research/research.png) 
 
-Something about shadow
+### Something about shadow
 
 ![sunshine](./Research/thought.png) 
 
