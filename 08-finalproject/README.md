@@ -10,7 +10,7 @@ It was a coincidence that when I was taking notes, the sun and shadow was projec
 
 Something about sunshine
 
-![sunshine](./Research/Research.png) 
+![sunshine](./Research/research.png) 
 
 Something about shadow
 
