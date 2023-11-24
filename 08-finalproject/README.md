@@ -24,9 +24,15 @@ A brief introduction to my design ideation.
 
 ## Design
 
-### Modules
-
 ### PCB Design
+
+#### Schematic
+
+![Schematic](./PCBDesign/Schematic.png) 
+
+### PCB 2D
+
+![PCB2D](./PCBDesign/PCB2D.png) 
 
 ### Installation Details
 
