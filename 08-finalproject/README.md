@@ -18,7 +18,7 @@ It was a coincidence that when I was taking notes, the sun and shadow was projec
 
 ## Ideation
 
-A brief introduction to design ideation.
+A brief introduction to my design ideation.
 
 ![ideation](./Ideation/ideation.png) 
 
