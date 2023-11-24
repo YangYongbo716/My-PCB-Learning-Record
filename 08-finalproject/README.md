@@ -32,9 +32,11 @@ A brief introduction to my design ideation.
 
 #### PCB 2D
 
+This year happens to be the 50th anniversary of the legendary album “the Dark Side of the Moon”, which was created by Pink Floyd.  So I choose to design my PCB using classic triangle to explore the relashionship between light and music.
+
 ![PCB2D](./PCBDesign/PCB2D.png) 
 
-## Fabrication
+### Fabrication
 
 ![Fabrication](./Fabrication/Fabrication.png) 
 
