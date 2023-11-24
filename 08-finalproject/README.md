@@ -1,5 +1,7 @@
 # SunMelodino
 
+Sunlight perpetually interacts with elements in nature, casting enchanting light and shadow effects while creating a harmonious melody that is inherently natural. The question arises: How can we capture the charm of sunshine, experiencing it in a more intuitive way? The SunMelodino project seeks to address this challenge by collecting data on sunlight and utilizing it for music generation. This innovative approach allows us to tune into the captivating melodies concealed within the interplay of sunshine and shadow.
+
 ## Inspiration
 
 It was a coincidence that when I was taking notes, the sun and shadow was projected on my paper through the needles, which was producing a beautiful melody under the gentle touch of the breeze.
