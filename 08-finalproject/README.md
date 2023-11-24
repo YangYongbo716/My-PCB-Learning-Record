@@ -30,15 +30,29 @@ A brief introduction to my design ideation.
 
 ![Schematic](./PCBDesign/Schematic.png) 
 
-### PCB 2D
+#### PCB 2D
 
 ![PCB2D](./PCBDesign/PCB2D.png) 
 
-### Installation Details
+## Fabrication
 
-### Communications
+![Fabrication](./Fabrication/Fabrication.png) 
+
+### Explosion Map
+
+![Explosion Map](./ExplosionMap/ExplosionMap.png) 
 
 ### Max Music Generation
 
-## Final Presentation 
+![Max](./Max/Max.png) 
+
+## Final Presentation
+
+### Stationary Placement
+
+We can put the device still in nature to capture the rhythm of nature.
+
+![Still](./FinalPre/2.png) 
+
+![Still](./FinalPre/1.png) 
 
