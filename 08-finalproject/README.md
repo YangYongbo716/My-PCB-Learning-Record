@@ -4,7 +4,7 @@
 
 ![sunshine](./inspiration/sunshine.png) 
 
-When I was takeing notes under some trees, I found that sunshine cast beautiful shadow on my paper. It gave me a feeling that maybe we can feel the beauty of nature's light and shadow in a new way.
+It was a coincidence that when I was taking notes, the sun and shadow was projected on my paper through the needles, which was producing a beautiful melody under the gentle touch of the breeze.
 
 ## Research
 
